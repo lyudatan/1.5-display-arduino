@@ -17,3 +17,6 @@ Connections
 
 
 ![cnnections](https://github.com/lyudatan/1.5-display-arduino/blob/master/lcd_conn_bb.png "Connections")
+
+
+Upload the test_lcd.ino to your Arduino
