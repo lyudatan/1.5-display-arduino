@@ -1,6 +1,8 @@
 # 1.5-display-arduino
+
 Test For 1.8" TFT LCD with Arduino
 
+Download the ST7735 Libraries from https://github.com/adafruit/Adafruit-ST7735-Library
 
 Connections
 
