@@ -12,3 +12,6 @@ Connections
 6 VCC - +5V  
 7 BL  - +5V  
 8 GND - GND  
+
+
+![cnnections](https://github.com/lyudatan/1.5-display-arduino/blob/master/lcd_conn_bb.png "Connections")
